@@ -1,6 +1,9 @@
 # README: public-course-content
 
 ## Description
++ Course: Data Science Practicum for Business with Python
++ Instructor: Casey Whorton
++ Semester: Winter/Spring 2020
 + This repository contains the notebook and python file course assignments as well as the course slide deck
   + Please download the appropriate files and put in your own private repo
   + From there, create pull requests and list the instructor as the collaborator to review
